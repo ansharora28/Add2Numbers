@@ -2,7 +2,7 @@
     flex: content;
     align-items: center;
 }
-
+.classname{ text-align:centre;}
 .form {
     background-color: rgb(204, 142, 60);
     margin: 50px;
